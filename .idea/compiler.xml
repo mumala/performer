@@ -11,5 +11,9 @@
         <module name="performer.performer.main" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="performer.performer.main~1" target="11" />
+      <module name="performer.performer.test~1" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
